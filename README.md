@@ -3,7 +3,7 @@
 
 ## Get Started
 
-1. `npx nextjs-saaskit`
+1. `npx create-backend-kit`
 2. `cd projectName`
 3. Copy `.env.example` to `.env`
 4. Update env variables
@@ -11,7 +11,8 @@
 7. Execute `npm run dev` to start the development server and enjoy!
 
 ## Roadmap
-
+[] Hono
+[] Next.js Backend
 
 
 ## Contributing
