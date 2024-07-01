@@ -1,4 +1,4 @@
-<h1 align="center">Open Source Backend kit</h1>
+<h1 align="center">Open Source Backend Starter kit</h1>
 
 
 ## Get Started
